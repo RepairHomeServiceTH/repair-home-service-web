@@ -1,0 +1,6 @@
+{
+  "name": "Repair Home Service",
+  "description": "เว็บไซต์แนะนำและโฆษณาแอปซ่อมมือถือถึงบ้าน ซ่อมมือถือถึงบ้าน ง่ายกว่าเดิม ช่างในพื้นที่พร้อมไปรับเครื่องถึงหน้าบ้าน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
